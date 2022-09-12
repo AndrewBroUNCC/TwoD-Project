@@ -182,6 +182,7 @@ class game:
             #     print('collision')
 
             #self.screen.fill('black')
+            #testing
             pygame.display.update()
             self.clock.tick(FPS)
 
